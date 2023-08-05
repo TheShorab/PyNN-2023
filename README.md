@@ -9,4 +9,4 @@ An intermediate level Python programming course with a focus on neural networks.
 - Object-oriented design and its concepts.
 - MAdaline; class, module, nested loops, clean code.
 - Multi-Treading and Multi-Processing.
-- A CNN classifer using PyTorch.
+- A CNN classifier using PyTorch.
