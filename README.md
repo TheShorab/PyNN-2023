@@ -46,4 +46,4 @@ An intermediate level Python programming course with a focus on neural networks.
     3- Thread.  
     4- Process.
 
-- Final Project: A CNN classifier using PyTorch
+- Final Project: A CNN Classifier Using PyTorch
