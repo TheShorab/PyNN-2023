@@ -3,7 +3,7 @@ An intermediate level Python programming course with a focus on neural networks.
 
 ## Headlines
 - Introduction:    
-    1- The purpose of this Programming Course.
+    1- The purpose of this Programming Course.    
     2- The concept of Programming.  
     3- Introduction to the Python language.       
     4- Install Python.  
