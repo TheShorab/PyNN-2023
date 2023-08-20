@@ -10,11 +10,11 @@ An intermediate level Python programming course with a focus on neural networks.
     5- Install VSCode.  
     6- Install Windows Terminal.    
     7- Setup VSCode.    
-    8- A Simple Program in Python
+    8- A Simple Program in Python.
   
 - CLI:  
-    1- Navigating the File System    
-    2- Viewing and Changing the File System
+    1- Navigating the File System .   
+    2- Viewing and Changing the File System.
 
 - Fundamentals:     
     1- Syntax.    
@@ -28,13 +28,13 @@ An intermediate level Python programming course with a focus on neural networks.
     1- if-else.     
     2- Loops.   
     3- Functions.   
-    4- Scope    
+    4- Scope.    
     5- Files.   
     6- JSON.
 
 - Object-Oriented Design and its Concepts:  
-    1- Classes and Objects  
-    2- Inheritance
+    1- Classes and Objects.  
+    2- Inheritance.
 
 - Neural Networks:  
     1- What is a Neuron?  
