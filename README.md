@@ -40,5 +40,10 @@ An intermediate level Python programming course with a focus on neural networks.
     3- Numpy.   
     3- Clean Code.  
 
-- Multi-Treading and Multi-Processing.
-- A CNN classifier using PyTorch.
+- Multi-Treading and Multi-Processing:      
+    1- Workers.     
+    2- Multi-Core Processors.   
+    3- Thread.  
+    4- Process.
+
+- Final Project: A CNN classifier using PyTorch
