@@ -2,7 +2,16 @@
 An intermediate level Python programming course with a focus on neural networks.
 
 ## Headlines
-- Introduction.
+- Introduction:    
+    1- The purpose of this Programming Course.
+    2- The concept of Programming.  
+    3- Introduction to the Python language.       
+    4- Install Python.  
+    5- Install VSCode.  
+    6- Install Windows Terminal.    
+    7- Setup VSCode.    
+    8- A Simple Program in Python
+  
 - CLI:  
     1- Navigating the File System    
     2- Viewing and Changing the File System
