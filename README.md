@@ -20,8 +20,8 @@ An intermediate level Python programming course with a focus on neural networks.
     2- Loops.   
     3- Functions.   
     4- Scope    
-    4- Files.   
-    5- JSON.
+    5- Files.   
+    6- JSON.
 
 - Object-Oriented Design and its Concepts:  
     1- Classes and Objects  
@@ -37,8 +37,8 @@ An intermediate level Python programming course with a focus on neural networks.
     1- Nested Loops.    
     2- Modules.     
     3- PIP.     
-    3- Numpy.   
-    3- Clean Code.  
+    4- Numpy.   
+    5- Clean Code.  
 
 - Multi-Treading and Multi-Processing:      
     1- Workers.     
